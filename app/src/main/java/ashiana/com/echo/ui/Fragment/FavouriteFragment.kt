@@ -289,3 +289,4 @@ class FavouriteFragment : Fragment() {
 
 
 
+//Fragment screen code completed.
